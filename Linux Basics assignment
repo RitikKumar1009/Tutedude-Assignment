@@ -1,1 +1,13 @@
 
+------------------------------------------------------------------------------------------
+1. For creating and renaming file/directory 
+
+admin_ritik@adminritik:~/Documents/Linux$ mkdir test_dir
+admin_ritik@adminritik:~/Documents/Linux$ cd test_dir/
+admin_ritik@adminritik:~/Documents/Linux/test_dir$ touch example.txt
+admin_ritik@adminritik:~/Documents/Linux/test_dir$ mv example.txt renamed_example.txt
+admin_ritik@adminritik:~/Documents/Linux/test_dir$ ls
+renamed_example.txt
+
+
+--------------------------------------------------------------------------------------
